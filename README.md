@@ -1,39 +1,32 @@
-# Learning template
+# Learning AWS (Amazon Web Services) terms in plain English
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-<!-- Add reference link(s) here -->
+<https://expeditedsecurity.com/aws-in-plain-english>
 
-## From scratch
+## App services
 
-Using [`yarn`](https://github.com/hchiam/learning-yarn):
 
-```bash
-yarn add 
-```
 
-Or with `npm`:
+## Web app dev services
 
-```bash
-npm install 
-```
 
-And then:
 
-```bash
+## Mobile app dev services
 
-```
 
-## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
 
-Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
+## DevOps + deployment services
 
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && yarn; # and then ...
-```
 
-Or with `npm`: (triple-click to select all)
 
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && npm install; # and then ...
-```
+## Business/network services
+
+
+
+## Big data services
+
+
+
+## AWS management services
+
