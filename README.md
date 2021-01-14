@@ -8,7 +8,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 1. EC2 = virtual servers
 2. IAM = users/keys/certs "I am" who
-3. S3 = FTP server (file/site storage + transfer); "SSS" "Site Storage Server"
+3. S3 = FTP server (file/site storage + transfer); "SSS" "Site Storage Server" (S3 actually stands for "Simple Storage Service")
 4. VPC = virtually show as 1 network
 5. Lambda = sounds like [Google Apps Script](https://github.com/hchiam/learning-google-apps-script) but for AWS
 
