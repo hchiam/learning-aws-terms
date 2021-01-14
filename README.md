@@ -18,13 +18,13 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 7. RDS = "Remote DB Service" (?)
 8. Route53 = DNS domains, like GoDaddy
 9. SES = simple email service for notifications / email resets
-10 Cloudfront = CDN
-11. CloudSearch = text search in files (S3) and DB (RDS)
-12. DynamoDB = NoSQL `{k:v}`
-13. Elasticache = distributed memory caching
-14. Elastic Transcoder = video handler
-15. SQS = data queue
-16. WAF = firewall (e.g. vs. DDOS)
+   10 Cloudfront = CDN
+10. CloudSearch = text search in files (S3) and DB (RDS)
+11. DynamoDB = NoSQL `{k:v}`
+12. Elasticache = distributed memory caching
+13. Elastic Transcoder = video handler
+14. SQS = data queue
+15. WAF = firewall (e.g. vs. DDOS)
 
 ## Mobile app dev services
 
