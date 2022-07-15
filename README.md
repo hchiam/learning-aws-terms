@@ -43,7 +43,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 ## Business/network services
 
-26. AppStream = rdp/Citrix but only access an app (compare with 30: Workspaces)
+26. AppStream = rdp/Citrix but only access an app (compare with 31: Workspaces)
 27. Direct Connect = dedicated line / connection (?)
 28. Directory Service = used for connecting apps that need a MS Active Directory to control them
 29. WorkDocs = like Dropbox
